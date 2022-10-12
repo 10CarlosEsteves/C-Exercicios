@@ -6,3 +6,6 @@ Esse código é oriundo de exercicios da biblioteca string. Basicamente, o usuá
 
 # fatorial.cpp:
 Esse código calcula o fatorial de um número utilizando funções recursivas.
+
+# fibonacho.cpp:
+Esse código encontra o número na posição da sequencia de fibonacci fornecida pelo usuário utilizando funções recursivas.
